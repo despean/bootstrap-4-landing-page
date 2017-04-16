@@ -244,8 +244,18 @@ strong{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    color: #FFFFFF;
 }
-
+.btm_center{
+    margin: 0 auto;
+}
+textarea{
+    height: 150px;
+}
+body > section:nth-child(8) > section > div > div > div > form > div:nth-child(2) > div.row > div.col-md-2 > a{
+    background-color:#FF9B51;
+    border-color: #FF9B51;
+}
 
 
 
