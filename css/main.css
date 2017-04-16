@@ -69,6 +69,14 @@ strong{
     width: 100%;
     background-color: #000;
 }
+#footer .fa{
+    font-size: 15pt;
+    padding: 10px 5px 0 5px;
+}
+#footer > section > div > div{
+    margin: 0 auto;
+}
+
 /*social*/
 .hv-1{
     height: 100px;
@@ -252,7 +260,7 @@ strong{
 textarea{
     height: 150px;
 }
-body > section:nth-child(8) > section > div > div > div > form > div:nth-child(2) > div.row > div.col-md-2 > a{
+body > section:nth-child(8) > section > div > div > div > form > div.col-md-12 > input{
     background-color:#FF9B51;
     border-color: #FF9B51;
 }
