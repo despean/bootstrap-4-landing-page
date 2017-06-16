@@ -79,29 +79,27 @@ strong{
 
 /*social*/
 .hv-1{
-    height: 100px;
     -webkit-box-shadow: 0px 2px 5px 0px rgba(115,115,115,1);
     -moz-box-shadow: 0px 2px 5px 0px rgba(115,115,115,1);
     box-shadow: 0px 2px 5px 0px rgba(115,115,115,1);
     padding-top: 10px;
 }
 .hv-2{
-    height:400px;
     background: #F5F5F5;
 }
 .hv-3{
-    height:400px;
+   
     background: #FFFFFF;
 }
 .hv-4{
-    height:600px;
     background: #F5F5F5;
 }
 
 .fa{
     color: #cccccc;
-    font-size: 2vw;
-    font-size: 40pt;
+    font-size: 16px;
+    font-size: 3.2vw;
+    
 }
 .nav-tabs .active {
     background:#FF9B51 !important;
